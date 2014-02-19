@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tarea1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="im">Imagen</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_favorite">Favorito</string>
+    <string name="msg_share">Te comparto: %1$s</string>
+    <string name="tittleT">Tiendas</string>
+    <string name="TittleMaps">Mapa</string>
+        <string name="Dopen">abrir</string>
+    
+    <string name="Dclose">cerrar</string>
+        
+    <string-array name="drawer_options">
+        <item>Imagen</item>
+        <item>Tiendas</item>
+        <item>Comunidad</item>
+    </string-array>
+
+    <string name="title_activity_otro">OtroActivity</string>
+
+</resources>
